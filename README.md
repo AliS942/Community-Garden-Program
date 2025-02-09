@@ -1,1 +1,2 @@
-# Community-Garden-Program
+# Community-Garden-Program  
+This Java-based Community Garden Program allows users to manage a community garden by tracking gardeners, garden plots, and plant growth. The program utilizes object-oriented programming principles such as classes, inheritance, and interfaces to organize various aspects of the garden. It enables users to add gardeners, assign them to plots, and monitor plant progress over time. The project is designed to simulate the functionality of a community garden and provides a clear example of Java programming in a real-world application.
